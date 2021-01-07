@@ -19,5 +19,5 @@ The class CFrame includes a main method that will run the project.
 
 ## Authors
 
-* **Brendan Trinh** - *Initial work* - [brendan8503](https://github.com/domingodavid)
+* **Brendan Trinh** - *Initial work* - [brendan8503]
 
